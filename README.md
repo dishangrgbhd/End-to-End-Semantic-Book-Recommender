@@ -17,7 +17,7 @@ Watch a quick walkthrough of the Book Recommender in action:
 - Imported a book dataset from **Kaggle**.
 - Cleaned and prepared the raw book dataset by handling missing values, removing noise and ensuring consistency. 
 - Exploratory Data Analysis to make sure that there is no underlying biases in the data which could possibly influence the recommendation system in the future.
-- A Good Dataset = A Good Model, layed the foundations for accurate downstream NLP tasks.
+- A Good Dataset = A Good Model, laid the foundations for accurate downstream NLP tasks.
 
 ---
 
